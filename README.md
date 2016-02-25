@@ -1,4 +1,4 @@
-# HadoopEcosystem
+# Hadoop Ecosystem
 Hadoop ecosystem tool getting started
 
 The repository contains implementation of the following operations in MR, PIG, HIVE & SPARK
